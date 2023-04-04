@@ -13,7 +13,7 @@
     </div>
   </div>
 </template>
-
+<!-- lsknb -->
 <script>
 // 引入组件
 import MyHeader from "./components/MyHeader.vue";
